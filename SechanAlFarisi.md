@@ -1,6 +1,0 @@
-# SechanAlFarisi
-## Version Control
-....
-
-## What is Software Engineer
-....
